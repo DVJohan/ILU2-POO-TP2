@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot" stamp="1761576729207"/>
+    <entry loc="C:\Program Files\Java\jre1.8.0_201" stamp="1761574559211"/>
     <entry loc="C:\Thinapp\Eclipse2022\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre" stamp="1668015730297"/>
+    <entry loc="C:\Program Files\Java\jre1.8.0_202" stamp="1761574696930"/>
+    <entry loc="C:\Program Files (x86)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412" stamp="1761575851701"/>
+    <entry loc="C:\Program Files (x86)\Java\jre1.8.0_202" stamp="1761574745286"/>
+    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot" stamp="1761574500120"/>
+    <entry loc="C:\Program Files (x86)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre" stamp="1761575851701"/>
+    <entry loc="C:\Program Files (x86)\Eclipse Adoptium\jdk-17.0.13.11-hotspot" stamp="1761576721747"/>
+    <entry loc="C:\Program Files (x86)\Java\jre1.8.0_201" stamp="1761574530399"/>
     <entry loc="C:\Thinapp\Eclipse2022\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208" stamp="1668015730297"/>
 </dirs>

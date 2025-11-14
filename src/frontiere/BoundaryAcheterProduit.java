@@ -62,7 +62,7 @@ public class BoundaryAcheterProduit {
 			controlAcheterProduit.acheterProduit(nomVendeur, quantiteVendeur);
 		} else {
 			System.out.println(nomAcheteur + " achète " + quantite + " " + produit + " à " + nomVendeur);
-			controlAcheterProduit.acheterProduit(nomVendeur, Integer.valueOf());
+			controlAcheterProduit.acheterProduit(nomVendeur, Integer.valueOf(quantiteVendeur));
 		}
 	}
 }
